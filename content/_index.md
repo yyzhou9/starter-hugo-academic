@@ -42,27 +42,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistant
+          company: CEIBS
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Remote
+          date_start: '2021-04-18'
+          date_end: '2021-07-30'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * A
+              * B
+              * C
+        - title: Audit Intern
+          company: KPMG
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Guangzhou
+          date_start: '2021-07-01'
+          date_end: '2021-09-03'
+          description: TBC.
     design:
       columns: '2'
 
@@ -218,7 +218,7 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: yeyang.zhou@outlook.com
       phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
