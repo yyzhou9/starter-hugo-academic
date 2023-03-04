@@ -21,6 +21,15 @@ role: MSc Student
 organizations:
 - name: London School of Economics
   url: https://www.lse.ac.uk
+- course: PhD in Accounting
+  institution: University of Arizona
+  year: 2028
+- course: MSc in Accounting and Finance
+  institution: London School of Economics
+  year: 2023
+- course: BBA in Accounting
+  institution: Hong Kong Baptist University
+  year: 2022
 
 # Short bio (displayed in user profile at end of posts)
 bio: This is Bio.
