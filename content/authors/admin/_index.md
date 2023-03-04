@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Yeyang Zhou
+type: landing # 新加的，测试
 
 # Full name (for SEO)
 first_name: Yeyang
@@ -13,13 +14,13 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: MSc Student
+# # Role/position/tagline
+# role: MSc Student
 
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: London School of Economics
-    url: https://www.lse.ac.uk
+# # Organizations/Affiliations to show in About widget
+# organizations:
+#   - name: London School of Economics
+#     url: https://www.lse.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include disclosure, auditing, corporate governance, etc.
