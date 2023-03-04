@@ -62,7 +62,8 @@ locale:
 features:
   syntax_highlighter:
     theme_light: github-light
-    theme_dark: dracula
+    # theme_dark: dracula
+    theme_dark: github-light
   math:
     enable: false
   privacy_pack:
@@ -72,7 +73,8 @@ features:
     content_dir: content
     branch: main
   avatar:
-    gravatar: false
+    # gravatar: false
+    gravatar: true
     shape: circle
   comment:
     provider: ''

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yeyang Zhou
+title: Yeyang Zhou 23-03-04 20:52:54
 type: landing # 新加的，测试
 
 # Full name (for SEO)
@@ -23,13 +23,14 @@ organizations:
   url: https://www.lse.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include disclosure, auditing, corporate governance, etc.
+bio: This is Bio.
 
 # Interests to show in About widget
 interests:
 - Disclosure
 - Auditing
 - Corporate governance
+
 
 # Education to show in About widget
 education:
@@ -75,7 +76,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: '945335015@qq.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
