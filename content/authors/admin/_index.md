@@ -21,8 +21,8 @@ role: MSc Student
 organizations:
 - name: London School of Economics
   url: https://www.lse.ac.uk
-- name: PhD in Accounting
-- variable: PhD in Accounting
+- name: PhD in Accounting (name)
+- variable: PhD in Accounting (variable)
 
 
 # Short bio (displayed in user profile at end of posts)
