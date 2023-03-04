@@ -19,30 +19,30 @@ role: MSc Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: London School of Economics
-    url: https://www.lse.ac.uk
+- name: London School of Economics
+  url: https://www.lse.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include disclosure, auditing, corporate governance, etc.
 
 # Interests to show in About widget
 interests:
-  - Disclosure
-  - Auditing
-  - Corporate governance
+- Disclosure
+- Auditing
+- Corporate governance
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Accounting
-      institution: University of Arizona
-      year: 2028
-    - course: MSc in Accounting and Finance
-      institution: London School of Economics
-      year: 2023
-    - course: BBA in Accounting
-      institution: Hong Kong Baptist University
-      year: 2022
+  - course: PhD in Accounting
+    institution: University of Arizona
+    year: 2028
+  - course: MSc in Accounting and Finance
+    institution: London School of Economics
+    year: 2023
+  - course: BBA in Accounting
+    institution: Hong Kong Baptist University
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -83,4 +83,4 @@ highlight_name: true
 
 Yeyang Zhou is a graduate student at LSE.
 
-{style="text-align: justify;"}
+<!-- {style="text-align: justify;"} -->
