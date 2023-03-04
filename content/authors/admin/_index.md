@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yeyang Zhou 23-03-04 20:52:54
+title: Yeyang Zhou 23-03-04 22:34:03
 type: landing # 新加的，测试
 
 # Full name (for SEO)
@@ -21,15 +21,9 @@ role: MSc Student
 organizations:
 - name: London School of Economics
   url: https://www.lse.ac.uk
-- course: PhD in Accounting
-  institution: University of Arizona
-  year: 2028
-- course: MSc in Accounting and Finance
-  institution: London School of Economics
-  year: 2023
-- course: BBA in Accounting
-  institution: Hong Kong Baptist University
-  year: 2022
+- name: PhD in Accounting
+- variable: PhD in Accounting
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: This is Bio.
