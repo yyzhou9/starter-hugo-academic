@@ -99,7 +99,9 @@ Corporate governance
 
 <!-- {style="text-align: justify;"} -->
 
-Incoming Accounting PhD student, University of Arizona {style="text-align: left;"}
+<!-- Incoming Accounting PhD student, University of Arizona {style="text-align: left;"} -->
+
+<p style="text-align: left;">Incoming Accounting PhD student, University of Arizona</p>
 
 MSc in Accounting and Finance student, London School of Economics {style="text-align: left;"}
 
