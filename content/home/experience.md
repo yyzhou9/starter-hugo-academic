@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: STM study of moiré graphene and TMDC materials
-    company: Visiting Student Researcher supervised by Prof. Michael Crommie
-    company_url: 'https://crommie.berkeley.edu/'
-    location: Crommie Group, UC Berkeley
-    date_start: '2021-09-01'
-    date_end: '2022-01-04'
+  - title: Research Assistant
+    company: CEIBS
+    # company_url: 'https://crommie.berkeley.edu/'
+    location: Remote
+    date_start: '2021-04-18'
+    date_end: '2021-07-30'
     # description: |2-
     #     * Characterized twisted bilayer graphene and TMDC devices ($TaSe_{2}$, $NbSe_{2}$, $TaTe_{2}$, etc.). Studied the evolution of electronic structures with back gate.
     #     * Imaged the Mott insulating behavior of monolayer 1T-$TaSe_{2}$ with ‘flower pattern’ orbital texture.
