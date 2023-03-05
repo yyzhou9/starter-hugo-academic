@@ -41,12 +41,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Accounting
+  - course: Incoming Accounting PhD Student
     institution: University of Arizona
     year: 2028 (Expected)
-  - course: MSc in Accounting and Finance
+  - course: MSc in Accounting and Finance Student
     institution: London School of Economics
-    year: 2023 (Expected)
+    year: 2023
   - course: BBA in Accounting
     institution: Hong Kong Baptist University
     year: 2022
@@ -73,7 +73,7 @@ social:
     link: https://github.com/yyzhou9
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/yeyang-z-5ba38a227/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
