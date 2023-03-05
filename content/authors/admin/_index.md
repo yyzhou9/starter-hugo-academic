@@ -15,17 +15,17 @@ status:
 superuser: true
 
 # Role/position/tagline
-# role: MSc Student
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-# - name: London School of Economics
-#   url: https://www.lse.ac.uk
+- name: London School of Economics
+  url: https://www.lse.ac.uk
 # - name: PhD in Accounting (name)
 # - variable: PhD in Accounting (variable)
-  - name: Incoming Accounting PhD student, University of Arizona
-  - name: MSc in Accounting and Finance student, London School of Economics
-  - name: BBA in Accounting, Hong Kong Baptist University
+  # - name: Incoming Accounting PhD student, University of Arizona
+  # - name: MSc in Accounting and Finance student, London School of Economics
+  # - name: BBA in Accounting, Hong Kong Baptist University
 
 # Short bio (displayed in user profile at end of posts)
 bio: This is Bio.
@@ -95,12 +95,14 @@ highlight_name: true
 
 <!-- Incoming Accounting PhD student, University of Arizona {style="text-align: left;"} -->
 
-<h1>Education</h1>
+<h3>Education</h3>
+
 <p style="text-align: left;">Incoming Accounting PhD student, University of Arizona</p>
 <p style="text-align: left;">MSc in Accounting and Finance student, London School of Economics</p>
 <p style="text-align: left;">BBA in Accounting, Hong Kong Baptist University</p>
 
-<h1>Research Interests</h1>
+<!-- 
+<h3>Research Interests</h3>
 <p style="text-align: left;">Disclosure</p>
 <p style="text-align: left;">Textual Analysis</p>
-<p style="text-align: left;">Corporate governance</p>
+<p style="text-align: left;">Corporate governance</p> -->
