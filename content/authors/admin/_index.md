@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yeyang Zhou 23-03-05 00:19:16
+title: Yeyang Zhou 23-03-05 00:29
 type: landing # 新加的，测试
 
 # # Full name (for SEO)
@@ -23,9 +23,9 @@ organizations:
 #   url: https://www.lse.ac.uk
 # - name: PhD in Accounting (name)
 # - variable: PhD in Accounting (variable)
-  - Incoming Accounting PhD student @ University of Arizona
-  - MSc in Accounting and Finance, 2023 (expected), London School of Economics
-  - BBA in Accounting, 2022, Hong Kong Baptist University
+  - name: Incoming Accounting PhD student @ University of Arizona
+  - name: MSc in Accounting and Finance, 2023 (expected), London School of Economics
+  - name: BBA in Accounting, 2022, Hong Kong Baptist University
 
 # Short bio (displayed in user profile at end of posts)
 bio: This is Bio.
