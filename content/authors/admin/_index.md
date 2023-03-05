@@ -19,11 +19,13 @@ role: MSc Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: London School of Economics
-  url: https://www.lse.ac.uk
-- name: PhD in Accounting (name)
-- variable: PhD in Accounting (variable)
-
+# - name: London School of Economics
+#   url: https://www.lse.ac.uk
+# - name: PhD in Accounting (name)
+# - variable: PhD in Accounting (variable)
+  - Incoming Accounting PhD student @ University of Arizona
+  - MSc in Accounting and Finance, 2023 (expected), London School of Economics
+  - BBA in Accounting, 2022, Hong Kong Baptist University
 
 # Short bio (displayed in user profile at end of posts)
 bio: This is Bio.
