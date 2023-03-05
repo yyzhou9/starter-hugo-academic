@@ -44,7 +44,7 @@ education:
   - course: PhD in Accounting
     institution: University of Arizona
     year: Incoming student
-  - course: MSc in Accounting and Finance Student
+  - course: MSc in Accounting and Finance
     institution: London School of Economics
     year: Current student
   - course: BBA in Accounting

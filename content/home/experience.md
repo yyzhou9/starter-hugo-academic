@@ -29,6 +29,8 @@ experience:
     location: Remote
     date_start: '2021-04-18'
     date_end: '2021-07-30'
+    # 删了日会报错
+
     # description: |2-
     #     * Characterized twisted bilayer graphene and TMDC devices ($TaSe_{2}$, $NbSe_{2}$, $TaTe_{2}$, etc.). Studied the evolution of electronic structures with back gate.
     #     * Imaged the Mott insulating behavior of monolayer 1T-$TaSe_{2}$ with ‘flower pattern’ orbital texture.
