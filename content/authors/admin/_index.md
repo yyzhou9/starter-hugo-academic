@@ -41,9 +41,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Incoming Accounting PhD Student
+  - course: PhD in Accounting
     institution: University of Arizona
-    year: 2028 (Expected)
+    year: Incoming student
   - course: MSc in Accounting and Finance Student
     institution: London School of Economics
     year: 2023
