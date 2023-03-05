@@ -87,18 +87,18 @@ email: '945335015@qq.com'
 highlight_name: true
 ---
 
-- Incoming Accounting PhD student, University of Arizona
+<!-- - Incoming Accounting PhD student, University of Arizona
 - MSc in Accounting and Finance student, London School of Economics
-- BBA in Accounting, Hong Kong Baptist University
+- BBA in Accounting, Hong Kong Baptist University -->
 
 
-- Research Interest: 
-- Disclosure
-- Textual Analysis
-- Corporate governance
+Research Interest: 
+Disclosure
+Textual Analysis
+Corporate governance
 
 <!-- {style="text-align: justify;"} -->
 
-{style="text-align: left;"} Incoming Accounting PhD student, University of Arizona
-{style="text-align: left;"} MSc in Accounting and Finance student, London School of Economics
-{style="text-align: left;"} BBA in Accounting, Hong Kong Baptist University
+Incoming Accounting PhD student, University of Arizona {style="text-align: left;"}
+MSc in Accounting and Finance student, London School of Economics {style="text-align: left;"}
+BBA in Accounting, Hong Kong Baptist University {style="text-align: left;"}
