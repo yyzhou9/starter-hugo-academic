@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Yeyang Zhou
-type: landing # 新加的，测试
+# type: landing # 新加的，测试
 
 # # Full name (for SEO)
 # first_name: Yeyang
@@ -42,13 +42,13 @@ education:
   courses:
   - course: PhD in Accounting
     institution: University of Arizona
-    year: 2028
+    # year: 2028
   - course: MSc in Accounting and Finance
     institution: London School of Economics
-    year: 2023
+    # year: 2023
   - course: BBA in Accounting
     institution: Hong Kong Baptist University
-    year: 2022
+    # year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -87,13 +87,7 @@ email: 'yeyang.zhou@outlook.com'
 highlight_name: true
 ---
 
-<!-- - Incoming Accounting PhD student, University of Arizona
-- MSc in Accounting and Finance student, London School of Economics
-- BBA in Accounting, Hong Kong Baptist University -->
-
-<!-- {style="text-align: justify;"} -->
-
-<!-- Incoming Accounting PhD student, University of Arizona {style="text-align: left;"} -->
+Yeyang is a graduate student.
 
 <h3>Education</h3>
 
