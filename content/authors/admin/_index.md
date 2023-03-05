@@ -43,13 +43,13 @@ education:
   courses:
   - course: PhD in Accounting
     institution: University of Arizona
-    year: 2028
+    year: 2028 (Expected)
   - course: MSc in Accounting and Finance
     institution: London School of Economics
-    year: 2023
+    year: 2023 (Expected)
   - course: BBA in Accounting
     institution: Hong Kong Baptist University
-    year: 09/2018-06/2022
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
