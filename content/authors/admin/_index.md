@@ -33,6 +33,7 @@ bio: This is Bio.
 # Interests to show in About widget
 interests:
 - Disclosure
+- Textual analysis
 - Auditing
 - Corporate governance
 
@@ -42,13 +43,13 @@ education:
   courses:
   - course: PhD in Accounting
     institution: University of Arizona
-    # year: 2028
+    year: 2028
   - course: MSc in Accounting and Finance
     institution: London School of Economics
-    # year: 2023
+    year: 2023
   - course: BBA in Accounting
     institution: Hong Kong Baptist University
-    # year: 2022
+    year: 09/2018-06/2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -89,11 +90,11 @@ highlight_name: true
 
 Yeyang is a graduate student.
 
-<h3>Education</h3>
+<!-- <h3>Education</h3>
 
 <p style="text-align: left;">Incoming Accounting PhD student, University of Arizona</p>
 <p style="text-align: left;">MSc in Accounting and Finance student, London School of Economics</p>
-<p style="text-align: left;">BBA in Accounting, Hong Kong Baptist University</p>
+<p style="text-align: left;">BBA in Accounting, Hong Kong Baptist University</p> -->
 
 <!-- 
 <h3>Research Interests</h3>
