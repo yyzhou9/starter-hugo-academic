@@ -15,7 +15,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSc Student
+# role: MSc Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -23,9 +23,9 @@ organizations:
 #   url: https://www.lse.ac.uk
 # - name: PhD in Accounting (name)
 # - variable: PhD in Accounting (variable)
-  - name: Incoming Accounting PhD student @ University of Arizona
-  - name: MSc in Accounting and Finance, 2023 (expected), London School of Economics
-  - name: BBA in Accounting, 2022, Hong Kong Baptist University
+  - name: Incoming Accounting PhD student, University of Arizona
+  - name: MSc in Accounting and Finance student, London School of Economics
+  - name: BBA in Accounting, Hong Kong Baptist University
 
 # Short bio (displayed in user profile at end of posts)
 bio: This is Bio.
@@ -90,3 +90,5 @@ highlight_name: true
 Yeyang Zhou is a graduate student at LSE.
 
 <!-- {style="text-align: justify;"} -->
+
+{style="text-align: left;"}
