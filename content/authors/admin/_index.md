@@ -93,10 +93,12 @@ highlight_name: true
 
 
 - Research Interest: 
-  - Disclosure
-  - Textual Analysis
-  - Corporate governance
+- Disclosure
+- Textual Analysis
+- Corporate governance
 
 <!-- {style="text-align: justify;"} -->
 
-{style="text-align: left;"}
+{style="text-align: left;"} Incoming Accounting PhD student, University of Arizona
+{style="text-align: left;"} MSc in Accounting and Finance student, London School of Economics
+{style="text-align: left;"} BBA in Accounting, Hong Kong Baptist University
