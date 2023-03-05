@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yeyang Zhou 23-03-05 00:29
+title: Yeyang Zhou
 type: landing # 新加的，测试
 
 # # Full name (for SEO)
@@ -88,7 +88,7 @@ highlight_name: true
 ---
 
 Yeyang Zhou is a graduate student at LSE.
-
+23-03-05 00:33:23
 <!-- {style="text-align: justify;"} -->
 
 {style="text-align: left;"}
