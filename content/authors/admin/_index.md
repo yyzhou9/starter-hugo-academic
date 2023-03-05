@@ -100,5 +100,7 @@ Corporate governance
 <!-- {style="text-align: justify;"} -->
 
 Incoming Accounting PhD student, University of Arizona {style="text-align: left;"}
+
 MSc in Accounting and Finance student, London School of Economics {style="text-align: left;"}
+
 BBA in Accounting, Hong Kong Baptist University {style="text-align: left;"}
