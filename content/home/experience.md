@@ -29,30 +29,30 @@ experience:
     location: Crommie Group, UC Berkeley
     date_start: '2021-09-01'
     date_end: '2022-01-04'
-    description: |2-
-        * Characterized twisted bilayer graphene and TMDC devices ($TaSe_{2}$, $NbSe_{2}$, $TaTe_{2}$, etc.). Studied the evolution of electronic structures with back gate.
-        * Imaged the Mott insulating behavior of monolayer 1T-$TaSe_{2}$ with ‘flower pattern’ orbital texture.
+    # description: |2-
+    #     * Characterized twisted bilayer graphene and TMDC devices ($TaSe_{2}$, $NbSe_{2}$, $TaTe_{2}$, etc.). Studied the evolution of electronic structures with back gate.
+    #     * Imaged the Mott insulating behavior of monolayer 1T-$TaSe_{2}$ with ‘flower pattern’ orbital texture.
 
-  - title: Unconventional superconductivity in oxides   
-    company: Supervised by Prof. Wei Li
-    company_url: 'https://phyai.fudan.edu.cn/yjcg/list.htm'
-    location: Artificial Interface Lab, Fudan University
-    date_start: '2019-05-01'
-    date_end: '2021-08-20'
-    description: |2-
-        * Grew and optimized single crystal oxide thin films $Ti_{2}O_{3}/GaN$ with pulsed-laser deposition.
-        * Studied the nontrivial topology of rare-earth oxide superconductor LaO with first-principle calculation.
-        * Analyzed the energy splitting of La orbitals in oxygen octahedron crystal fields with group theory.
+  # - title: Unconventional superconductivity in oxides   
+  #   company: Supervised by Prof. Wei Li
+  #   company_url: 'https://phyai.fudan.edu.cn/yjcg/list.htm'
+  #   location: Artificial Interface Lab, Fudan University
+  #   date_start: '2019-05-01'
+  #   date_end: '2021-08-20'
+  #   description: |2-
+  #       * Grew and optimized single crystal oxide thin films $Ti_{2}O_{3}/GaN$ with pulsed-laser deposition.
+  #       * Studied the nontrivial topology of rare-earth oxide superconductor LaO with first-principle calculation.
+  #       * Analyzed the energy splitting of La orbitals in oxygen octahedron crystal fields with group theory.
 
-  - title: CVD growth of 2D materials and device fabrication
-    company: Supervised by Prof. Faxian Xiu
-    company_url: 'http://www.physics.fudan.edu.cn/tps/people/fxxiu/'
-    location: Nanodevice Lab, Fudan University
-    date_start: '2018-11-01'
-    date_end: '2019-05-01'
-    description: |2-
-        * Synthesized high quality $Bi_{2}SeO_{2}$ sample using chemical vapor deposition method (CVD)
-        * Peeled off single-layered graphene for heterostructure fabrication.
+  # - title: CVD growth of 2D materials and device fabrication
+  #   company: Supervised by Prof. Faxian Xiu
+  #   company_url: 'http://www.physics.fudan.edu.cn/tps/people/fxxiu/'
+  #   location: Nanodevice Lab, Fudan University
+  #   date_start: '2018-11-01'
+  #   date_end: '2019-05-01'
+  #   description: |2-
+  #       * Synthesized high quality $Bi_{2}SeO_{2}$ sample using chemical vapor deposition method (CVD)
+  #       * Peeled off single-layered graphene for heterostructure fabrication.
 
   
 ---
