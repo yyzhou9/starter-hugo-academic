@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: Yeyang's Homepage
 date: 2023-02-28
-type: landing
+type: landing #原来是这里有问题
 
 sections:
   - block: about.avatar
