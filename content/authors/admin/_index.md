@@ -87,8 +87,16 @@ email: '945335015@qq.com'
 highlight_name: true
 ---
 
-Yeyang Zhou is a graduate student at LSE.
-23-03-05 00:33:23
+- Incoming Accounting PhD student, University of Arizona
+- MSc in Accounting and Finance student, London School of Economics
+- BBA in Accounting, Hong Kong Baptist University
+
+
+- Research Interest: 
+  - Disclosure
+  - Textual Analysis
+  - Corporate governance
+
 <!-- {style="text-align: justify;"} -->
 
 {style="text-align: left;"}
