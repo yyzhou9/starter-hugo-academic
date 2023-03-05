@@ -2,14 +2,14 @@
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
-
+active: false # 自己加的
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
 weight: 30
 
-title: Reasearch Experience
+title: Experience
 subtitle:
 
 # Date format for experience
