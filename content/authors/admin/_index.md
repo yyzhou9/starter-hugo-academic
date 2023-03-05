@@ -46,7 +46,7 @@ education:
     year: Incoming student
   - course: MSc in Accounting and Finance Student
     institution: London School of Economics
-    year: 2023
+    year: Current student
   - course: BBA in Accounting
     institution: Hong Kong Baptist University
     year: 2022
