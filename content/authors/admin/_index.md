@@ -91,18 +91,16 @@ highlight_name: true
 - MSc in Accounting and Finance student, London School of Economics
 - BBA in Accounting, Hong Kong Baptist University -->
 
-
-Research Interest: 
-Disclosure
-Textual Analysis
-Corporate governance
-
 <!-- {style="text-align: justify;"} -->
 
 <!-- Incoming Accounting PhD student, University of Arizona {style="text-align: left;"} -->
 
+<h1>Education</h1>
 <p style="text-align: left;">Incoming Accounting PhD student, University of Arizona</p>
+<p style="text-align: left;">MSc in Accounting and Finance student, London School of Economics</p>
+<p style="text-align: left;">BBA in Accounting, Hong Kong Baptist University</p>
 
-MSc in Accounting and Finance student, London School of Economics {style="text-align: left;"}
-
-BBA in Accounting, Hong Kong Baptist University {style="text-align: left;"}
+<h1>Research Interests</h1>
+<p style="text-align: left;">Disclosure</p>
+<p style="text-align: left;">Textual Analysis</p>
+<p style="text-align: left;">Corporate governance</p>
