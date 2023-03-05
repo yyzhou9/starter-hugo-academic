@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Yeyang Zhou 23-03-04 22:34:03
+title: Yeyang Zhou 23-03-05 00:19:16
 type: landing # 新加的，测试
 
-# Full name (for SEO)
-first_name: Yeyang
-last_name: Zhou
+# # Full name (for SEO)
+# first_name: Yeyang
+# last_name: Zhou
 
 # Status emoji
 status:

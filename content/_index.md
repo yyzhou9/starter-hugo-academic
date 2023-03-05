@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Yeyang Zhou
+title: Yeyang's Homepage
 date: 2023-02-28
 type: landing
 
@@ -31,7 +31,8 @@ sections:
           - course: BBA in Accounting
             institution: Hong Kong Baptist University
             year: 2022
-
+    design:
+      columns: '2'
 
   # - block: features
   #   content:
