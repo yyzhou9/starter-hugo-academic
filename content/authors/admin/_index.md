@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yeyang Zhou
+title: Y Zhou
 # type: landing # 新加的，测试
 
 # # Full name (for SEO)
